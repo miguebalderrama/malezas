@@ -1,10 +1,8 @@
-# Deteccion de basurales a cielo abierto
+# Detector de malezas en monocultivos (Soja/Maíz)
 
 ## Descripción
 
-Los basurales a cielo abierto son aquellos donde los residuos se disponen de forma indiscriminada y con escasas medidas de protección ambiental. 
-
-Este proyecto, desarrollado en conjunto entre Dymaxion Labs y la [Fundación Bunge & Born](https://www.fundacionbyb.org/), tiene por objetivo la detección y seguimiento de los basurales a cielo abierto, aplicando técnicas basadas en machine learning (ML) para el procesamiento de imágenes satelitales. Esto permite mapear grandes áreas de manera rápida y con bajos recursos.
+En la Argentina, el problema de las malezas crece de manera sostenida y acelerada favorecido por el uso rutinario y repetido de las mismas herramientas de control, que consisten en uno o unos pocos herbicidas como única y exclusiva herramienta. Para evitar el surgimiento de nuevas resistencias es fundamental el monitoreo permanente de los lotes y la planificación, para actuar a tiempo y evitar que se agrave el problema. Al competir por el agua y los nutrientes del suelo, las malezas generan pérdidas económicas e interfieren durante la cosecha. En este proyecto buscamos crear un detector de malezas que permita al productor tomar decisiones que se ajusten a la realidad del cultivo, que permitan la detección de focos y minimicen las consecuencias negativas de las malezas. Además, esto reduciría el número de aplicaciones de fitosanitarios (tales como insecticidas, bactericidas, fungicidas y plaguicidas). Esta herramienta permitirá el monitoreo de lotes de forma remota y la toma de decisiones conociendo la distribución de malezas en su cultivo (cantidad y distribución espacial)
 
 ![](img_readme/A.png)![](img_readme/B.png)
 
