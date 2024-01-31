@@ -3,10 +3,12 @@
 ## Descripción
 
 En la Argentina, el problema de las malezas crece de manera sostenida y acelerada favorecido por el uso rutinario y repetido de las mismas herramientas de control, que consisten en uno o unos pocos herbicidas como única y exclusiva herramienta. Al competir por el agua y los nutrientes del suelo, las malezas generan pérdidas económicas e interfieren durante la cosecha. En este proyecto buscamos crear un detector de malezas que permita al productor tomar decisiones que se ajusten a la realidad del cultivo, que permitan la detección de focos y minimicen las consecuencias negativas de las malezas. Además, esto reduciría el número de aplicaciones de fitosanitarios (tales como insecticidas, bactericidas, fungicidas y plaguicidas). Esta herramienta permitirá el monitoreo de lotes de forma remota y la toma de decisiones conociendo la distribución de malezas en su cultivo (cantidad y distribución espacial)
+<div><img src="https://mundoagro.cl/wp-content/uploads/2024/01/3.jpg" border="5px solid red" height="300" caption="Detecciones de malezas y cultivos mediante el uso del modelo Yolo-V4" ><img src="https://avgust.com.co/wp-content/uploads/2020/02/dji-4204801_1280-1080x675.jpg" border="5px solid red" height="300" caption="Detecciones de malezas y cultivos mediante el uso del modelo Yolo-V4" ></div>
 
-![](https://mundoagro.cl/wp-content/uploads/2024/01/3.jpg)![](img_readme/B.png)
 
-El modelo está optimizado para las imágenes multiespectrales del satélite Sentinel-2. 
+
+
+
 
 ## Requerimientos
 
