@@ -10,23 +10,19 @@ En la Argentina, el problema de las malezas crece de manera sostenida y acelerad
 
 
 
-## Requerimientos
+## Fuente de datos
 
-Se utilizan las herramientas **GDAL** y [Orfeo Toolbox](https://www.orfeo-toolbox.org/) en la primera etapa del pre-procesamiento de los datos. Luego, se emplean nuestros paquetes [satproc](https://github.com/dymaxionlabs/satproc) y [unetseg](https://github.com/dymaxionlabs/satproc) para la generación del dataset y modelo de ML respectivamente.
+Imágenes de cultivos de [Soja/Maíz](https://universe.roboflow.com/cornweeds/weeds-over-wheat)
 
 ## Notebooks
 
 Este repositorio contiene un conjunto de notebooks de Jupyter, que describen los pasos necesarios:
 
-1. [Pre-procesamiento](notebooks/1_Preprocesamiento.ipynb): Se procesan las imágenes satelitales y la verdad de campo para generar el dataset de entrenamiento y de predicción del modelo.
-2. [Entrenamiento](notebooks/2_Entrenamiento.ipynb): Entrenamiento y evaluación del modelo.
-3. [Predicción](notebooks/3_Prediccion.ipynb): Predicción sobre la región de interés.
-4. [Post Procesamiento](notebooks/4_Post-procesamiento.ipynb): Procesamiento de los resultados de la predicción.
+1. [Pre-procesamiento](···): Se procesan las imágenes para generar el dataset de entrenamiento y de predicción del modelo.
+2. [Entrenamiento](...): Entrenamiento y evaluación del modelo.
+3. [Predicción](...): Predicción sobre la región de interés.
+4. [Post Procesamiento](...): Procesamiento de los resultados de la predicción.
 
-## :handshake: Contribuciones
-
-Reportes de bugs y *pull requests* pueden ser reportados en la [página de issues](https://github.com/dymaxionlabs/basurales) de este repositorio. Este proyecto está destinado a ser un espacio seguro y acogedor para la colaboración, y se espera que los contribuyentes se adhieran al código de conducta [Contributor
-Covenant](http://contributor-covenant.org).
 
 ## :page_facing_up: Licencia
 
