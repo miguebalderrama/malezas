@@ -1,4 +1,4 @@
-![Logo](https://drive.google.com/file/d/1sFg38EBAl4YBoYrYvHNqrn1NVNbXCUA5/view)
+![Logo](images\logoweed.jpg)
 
 # Detector de malezas en monocultivos
 
@@ -13,7 +13,7 @@ Este sistema ayudará a los agricultores a gestionar sus cultivos de manera efic
 Podrá implementarse en maquinaria agrícola, drones o robots para realizar un control selectivo utilizando herbicidas, vapor de agua o láser
 
 
-<div><img src="><img src="https://files.fm/f/sutxgus6qb" border="5px solid red" height="300" caption="Detecciones de malezas y cultivos mediante el uso del modelo Yolo-V4" ></div>
+<div><img src="><img src="images\imagenReadme.jpg" border="5px solid red" height="300" caption="Detecciones de malezas y cultivos mediante el uso del modelo Yolo-V4" ></div>
 
 
 
