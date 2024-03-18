@@ -28,8 +28,8 @@ Imágenes de cultivos de [Crop/Weed](https://drive.google.com/drive/folders/1zpy
 
 Este repositorio contiene un conjunto de notebooks de Jupyter, que describen los pasos necesarios:
 
-1. [EDA](notebooks\EDA.ipynb): Se realiza una analisis exploratorio de las imágenes para comprender mejor el set de datos.
-2. [Entrenamiento- Validacion -Test ](notebooks\Weed_crop_60epoc.ipynb): Entrenamiento y evaluación del modelo.
+1. [EDA](notebooks/EDA.ipynb): Se realiza una analisis exploratorio de las imágenes para comprender mejor el set de datos.
+2. [Entrenamiento- Validacion -Test ](notebooks/Weed_crop_60epoc.ipynb): Entrenamiento y evaluación del modelo.
 
 
 
