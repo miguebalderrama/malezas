@@ -1,9 +1,19 @@
-# Detector de malezas en monocultivos (Soja/Maíz)
+![Logo](https://drive.google.com/file/d/1sFg38EBAl4YBoYrYvHNqrn1NVNbXCUA5/view)
+
+# Detector de malezas en monocultivos
 
 ## Descripción
 
-En la Argentina, el problema de las malezas crece de manera sostenida y acelerada favorecido por el uso rutinario y repetido de las mismas herramientas de control, que consisten en uno o unos pocos herbicidas como única y exclusiva herramienta. Al competir por el agua y los nutrientes del suelo, las malezas generan pérdidas económicas e interfieren durante la cosecha. En este proyecto buscamos crear un detector de malezas que permita al productor tomar decisiones que se ajusten a la realidad del cultivo, que permitan la detección de focos y minimicen las consecuencias negativas de las malezas. Además, esto reduciría el número de aplicaciones de fitosanitarios (tales como insecticidas, bactericidas, fungicidas y plaguicidas). Esta herramienta permitirá el monitoreo de lotes de forma remota y la toma de decisiones conociendo la distribución de malezas en su cultivo (cantidad y distribución espacial)
-<div><img src="https://mundoagro.cl/wp-content/uploads/2024/01/3.jpg" border="5px solid red" height="300" caption="Detecciones de malezas y cultivos mediante el uso del modelo Yolo-V4" ><img src="https://avgust.com.co/wp-content/uploads/2020/02/dji-4204801_1280-1080x675.jpg" border="5px solid red" height="300" caption="Detecciones de malezas y cultivos mediante el uso del modelo Yolo-V4" ></div>
+Las malezas son un gran problema en la agricultura, generan pérdidas económicas y desequilibrios ambientales.
+Para resolverlo, necesitamos nuevas tecnologías que reduzcan el uso de herbicidas y maximicen la producción. 
+Aunque existen sistemas automatizados para controlar las malezas, aún tienen dificultades para reconocerlas en diferentes condiciones. 
+Es crucial mejorar la capacidad de reconocimiento y desarrollar bases de datos específicas para entrenar modelos de IA que funcionen bien en cualquier situación de campo.<br><br>
+Queremos crear un sistema de detección de malezas que identifique y clasifique las plantas entre maleza y cultivo para realizar un control selectivo. 
+Este sistema ayudará a los agricultores a gestionar sus cultivos de manera eficiente y sostenible. 
+Podrá implementarse en maquinaria agrícola, drones o robots para realizar un control selectivo utilizando herbicidas, vapor de agua o láser
+
+
+<div><img src="><img src="https://files.fm/f/sutxgus6qb" border="5px solid red" height="300" caption="Detecciones de malezas y cultivos mediante el uso del modelo Yolo-V4" ></div>
 
 
 
@@ -12,7 +22,7 @@ En la Argentina, el problema de las malezas crece de manera sostenida y acelerad
 
 ## Fuente de datos
 
-Imágenes de cultivos de [Soja/Maíz](https://universe.roboflow.com/cornweeds/weeds-over-wheat)
+Imágenes de cultivos de [Crop/Weed](https://drive.google.com/drive/folders/1zpyWs7rDUHFCtOCNAvH5RueEvUVxL6OZ?usp=sharing)
 
 ## Notebooks
 
