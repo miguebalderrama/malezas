@@ -1,4 +1,4 @@
-![Logo](images\logoweed.jpg)
+![Logo](images/logoweed.jpg)
 
 # Detector de malezas en monocultivos
 
