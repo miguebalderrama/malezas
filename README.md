@@ -28,10 +28,9 @@ Imágenes de cultivos de [Crop/Weed](https://drive.google.com/drive/folders/1zpy
 
 Este repositorio contiene un conjunto de notebooks de Jupyter, que describen los pasos necesarios:
 
-1. [Pre-procesamiento](···): Se procesan las imágenes para generar el dataset de entrenamiento y de predicción del modelo.
-2. [Entrenamiento](...): Entrenamiento y evaluación del modelo.
-3. [Predicción](...): Predicción sobre la región de interés.
-4. [Post Procesamiento](...): Procesamiento de los resultados de la predicción.
+1. [EDA](notebooks\EDA.ipynb): Se realiza una analisis exploratorio de las imágenes para comprender mejor el set de datos.
+2. [Entrenamiento- Validacion -Test ](notebooks\Weed_crop_60epoc.ipynb): Entrenamiento y evaluación del modelo.
+
 
 
 ## :page_facing_up: Licencia
