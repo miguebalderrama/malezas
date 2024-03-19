@@ -37,4 +37,4 @@ Este repositorio contiene un conjunto de notebooks de Jupyter, que describen los
 - [@miguebalderrama](https://github.com/miguebalderrama)
 ## :page_facing_up: Licencia
 
-El código está licenciado bajo Apache 2.0. Refiérase a [LICENSE.txt](LICENSE.txt).
+El código está licenciado bajo  [MIT License](https://opensource.org/license/mit/)
