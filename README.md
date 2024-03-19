@@ -20,12 +20,6 @@ Clasificación y detección de malezas y cultivo en imágenes provistas por el u
 ## Demo
 Link a la aplicación [WeedCropDetector](https://weedcropdetector.streamlit.app/)
 
-
-
-
-
-
-
 ## Fuente de datos
 
 Imágenes de cultivos de [Crop/Weed](https://drive.google.com/drive/folders/1zpyWs7rDUHFCtOCNAvH5RueEvUVxL6OZ?usp=sharing)
@@ -38,7 +32,9 @@ Este repositorio contiene un conjunto de notebooks de Jupyter, que describen los
 2. [Entrenamiento- Validacion -Test ](notebooks/Weed_crop_60epoc.ipynb): Entrenamiento y evaluación del modelo.
 
 
-
+## Autores
+- [@sasalyamila](https://github.com/yamilasasal)
+- [@miguebalderrama](https://github.com/miguebalderrama)
 ## :page_facing_up: Licencia
 
 El código está licenciado bajo Apache 2.0. Refiérase a [LICENSE.txt](LICENSE.txt).
