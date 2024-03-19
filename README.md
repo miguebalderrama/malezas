@@ -13,6 +13,14 @@ Podrá implementarse en maquinaria agrícola, drones o robots para realizar un c
 
 <div><img src='images\imagenReadme.jpg' border=5px solid red height=300 caption="Detecciones de malezas y cultivos mediante el uso del modelo Yolo-V4" ></div>
 
+## Funcionalidades
+
+Clasificación y detección de malezas y cultivo en imágenes provistas por el usuario a traves de la app.
+
+## Demo
+Link a la aplicación [WeedCropDetector](https://weedcropdetector.streamlit.app/)
+
+
 
 
 
